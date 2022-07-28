@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 💬 Ask me about **Programming and Science**
+- 💬 Ask me about **Programming,Science,History and Gaming**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
